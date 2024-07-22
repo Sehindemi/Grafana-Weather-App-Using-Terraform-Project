@@ -1,0 +1,4 @@
+influxdb-prod-sjZtln:172.17.0.2:8086
+grafana-prod-btx8QU:172.17.0.5:3000
+grafana-prod-YysIaJ:172.17.0.4:3001
+nodered-prod-BvG17h:172.17.0.3:1880
